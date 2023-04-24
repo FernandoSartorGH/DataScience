@@ -1,0 +1,1001 @@
+checking_balance,months_loan_duration,credit_history,default
+< 0 DM,6,critical,no
+1 - 200 DM,48,good,yes
+unknown,12,critical,no
+< 0 DM,42,good,no
+< 0 DM,24,poor,yes
+unknown,36,good,no
+unknown,24,good,no
+1 - 200 DM,36,good,no
+unknown,12,good,no
+1 - 200 DM,30,critical,yes
+1 - 200 DM,12,good,yes
+< 0 DM,48,good,yes
+1 - 200 DM,12,good,no
+< 0 DM,24,critical,yes
+< 0 DM,15,good,no
+< 0 DM,24,good,yes
+unknown,24,critical,no
+< 0 DM,30,perfect,no
+1 - 200 DM,24,good,yes
+unknown,24,good,no
+unknown,9,critical,no
+< 0 DM,6,good,no
+< 0 DM,10,critical,no
+1 - 200 DM,12,critical,no
+unknown,10,critical,no
+< 0 DM,6,good,no
+unknown,6,perfect,no
+> 200 DM,12,very good,no
+1 - 200 DM,7,good,no
+< 0 DM,60,poor,yes
+1 - 200 DM,18,good,no
+< 0 DM,24,good,no
+1 - 200 DM,18,good,no
+unknown,12,critical,no
+> 200 DM,12,good,no
+1 - 200 DM,45,critical,yes
+unknown,48,critical,no
+> 200 DM,18,good,yes
+> 200 DM,10,good,no
+1 - 200 DM,9,good,no
+unknown,30,good,no
+1 - 200 DM,12,good,no
+1 - 200 DM,18,poor,no
+< 0 DM,30,critical,no
+< 0 DM,48,critical,yes
+unknown,11,critical,no
+unknown,36,good,no
+< 0 DM,6,good,no
+unknown,11,critical,no
+unknown,12,good,no
+1 - 200 DM,24,poor,no
+1 - 200 DM,27,poor,no
+unknown,12,good,no
+unknown,18,good,no
+1 - 200 DM,36,poor,yes
+unknown,6,very good,no
+1 - 200 DM,12,good,yes
+unknown,36,critical,no
+> 200 DM,18,good,no
+< 0 DM,36,critical,yes
+1 - 200 DM,9,good,no
+1 - 200 DM,15,critical,no
+1 - 200 DM,36,perfect,yes
+1 - 200 DM,48,perfect,yes
+unknown,24,good,no
+unknown,27,good,no
+unknown,12,good,no
+1 - 200 DM,12,good,no
+unknown,36,good,yes
+unknown,36,good,no
+unknown,36,good,no
+unknown,7,critical,no
+< 0 DM,8,critical,no
+1 - 200 DM,42,critical,no
+< 0 DM,36,good,yes
+< 0 DM,12,critical,no
+< 0 DM,42,good,yes
+1 - 200 DM,11,poor,no
+unknown,54,perfect,no
+1 - 200 DM,30,good,no
+unknown,24,good,yes
+unknown,15,good,no
+unknown,18,good,no
+< 0 DM,24,good,no
+< 0 DM,10,good,no
+unknown,12,critical,no
+1 - 200 DM,18,critical,no
+1 - 200 DM,36,good,yes
+< 0 DM,18,good,no
+< 0 DM,12,perfect,yes
+unknown,12,critical,no
+< 0 DM,12,critical,no
+unknown,12,critical,yes
+> 200 DM,24,critical,no
+1 - 200 DM,12,good,no
+1 - 200 DM,54,perfect,yes
+unknown,12,critical,no
+1 - 200 DM,18,good,no
+1 - 200 DM,36,critical,no
+1 - 200 DM,20,poor,no
+unknown,24,good,no
+1 - 200 DM,36,good,no
+unknown,6,poor,no
+1 - 200 DM,9,critical,no
+unknown,12,good,no
+1 - 200 DM,24,critical,yes
+unknown,18,very good,yes
+1 - 200 DM,12,good,no
+< 0 DM,24,good,no
+1 - 200 DM,14,good,no
+1 - 200 DM,6,poor,no
+> 200 DM,15,good,no
+1 - 200 DM,18,good,no
+unknown,36,critical,yes
+< 0 DM,12,good,no
+unknown,48,critical,no
+< 0 DM,42,good,yes
+< 0 DM,10,critical,no
+< 0 DM,33,critical,yes
+1 - 200 DM,12,critical,no
+< 0 DM,21,good,yes
+unknown,24,critical,no
+unknown,12,good,no
+> 200 DM,10,critical,no
+1 - 200 DM,18,good,yes
+< 0 DM,12,critical,no
+< 0 DM,12,good,no
+1 - 200 DM,12,good,yes
+1 - 200 DM,12,critical,no
+< 0 DM,12,critical,yes
+1 - 200 DM,48,good,no
+< 0 DM,36,poor,yes
+unknown,15,good,no
+unknown,18,good,no
+unknown,60,good,no
+unknown,12,critical,no
+unknown,27,poor,no
+1 - 200 DM,12,good,yes
+1 - 200 DM,15,critical,no
+> 200 DM,12,good,no
+> 200 DM,6,good,no
+1 - 200 DM,36,good,no
+< 0 DM,27,good,no
+< 0 DM,18,good,yes
+unknown,21,critical,no
+1 - 200 DM,48,very good,no
+< 0 DM,6,critical,no
+unknown,12,critical,no
+< 0 DM,36,critical,no
+unknown,18,critical,no
+unknown,6,good,no
+unknown,10,good,no
+> 200 DM,36,good,no
+1 - 200 DM,24,critical,no
+1 - 200 DM,24,poor,no
+< 0 DM,12,good,yes
+< 0 DM,9,critical,no
+< 0 DM,12,very good,no
+1 - 200 DM,24,good,no
+unknown,6,critical,no
+unknown,24,critical,no
+unknown,18,critical,no
+unknown,15,good,no
+1 - 200 DM,10,good,no
+unknown,36,good,no
+unknown,6,good,no
+< 0 DM,18,good,yes
+1 - 200 DM,11,good,no
+unknown,24,good,no
+1 - 200 DM,24,critical,yes
+< 0 DM,15,perfect,yes
+unknown,12,good,no
+1 - 200 DM,24,poor,yes
+1 - 200 DM,8,good,no
+< 0 DM,21,poor,yes
+unknown,30,very good,yes
+< 0 DM,12,good,no
+< 0 DM,6,critical,no
+unknown,12,good,no
+< 0 DM,21,critical,no
+unknown,36,poor,yes
+1 - 200 DM,36,poor,yes
+< 0 DM,21,very good,yes
+unknown,24,critical,no
+1 - 200 DM,18,critical,yes
+unknown,15,critical,no
+1 - 200 DM,9,very good,yes
+1 - 200 DM,16,critical,no
+< 0 DM,12,good,yes
+1 - 200 DM,18,perfect,no
+unknown,24,good,yes
+1 - 200 DM,48,perfect,yes
+1 - 200 DM,27,good,yes
+unknown,6,good,no
+1 - 200 DM,45,good,yes
+1 - 200 DM,9,critical,yes
+unknown,6,critical,no
+1 - 200 DM,12,good,yes
+1 - 200 DM,24,good,no
+1 - 200 DM,18,poor,yes
+unknown,9,critical,no
+< 0 DM,12,good,no
+unknown,27,poor,no
+< 0 DM,12,good,yes
+unknown,12,critical,no
+< 0 DM,30,critical,no
+unknown,12,critical,no
+1 - 200 DM,12,critical,no
+< 0 DM,24,good,no
+unknown,12,good,no
+unknown,9,critical,no
+unknown,36,good,no
+< 0 DM,27,perfect,yes
+> 200 DM,30,poor,yes
+unknown,36,critical,no
+1 - 200 DM,6,critical,no
+< 0 DM,18,perfect,no
+> 200 DM,36,good,no
+< 0 DM,24,good,no
+unknown,10,good,no
+1 - 200 DM,12,good,no
+< 0 DM,12,good,no
+unknown,12,good,no
+unknown,24,poor,no
+unknown,15,good,no
+unknown,36,perfect,no
+1 - 200 DM,48,good,yes
+< 0 DM,12,good,yes
+unknown,9,good,yes
+< 0 DM,24,good,no
+> 200 DM,36,good,yes
+unknown,9,good,no
+unknown,12,good,no
+1 - 200 DM,18,good,no
+unknown,4,critical,no
+< 0 DM,24,good,yes
+1 - 200 DM,6,good,yes
+1 - 200 DM,21,good,yes
+unknown,12,critical,no
+< 0 DM,30,good,no
+< 0 DM,24,good,yes
+unknown,6,good,no
+< 0 DM,48,perfect,yes
+unknown,12,critical,no
+unknown,12,very good,no
+unknown,24,good,no
+unknown,12,critical,no
+unknown,6,perfect,no
+> 200 DM,24,good,no
+unknown,18,good,yes
+< 0 DM,6,critical,no
+> 200 DM,12,good,no
+1 - 200 DM,30,good,yes
+unknown,24,poor,no
+1 - 200 DM,9,good,no
+1 - 200 DM,60,poor,no
+unknown,24,critical,no
+< 0 DM,12,very good,yes
+unknown,15,good,no
+unknown,11,critical,no
+< 0 DM,12,good,no
+< 0 DM,24,good,no
+< 0 DM,18,critical,no
+unknown,12,critical,no
+unknown,10,critical,no
+1 - 200 DM,15,good,yes
+unknown,36,critical,no
+unknown,24,good,no
+< 0 DM,14,good,yes
+unknown,24,good,no
+unknown,18,good,no
+unknown,12,critical,no
+1 - 200 DM,48,very good,no
+1 - 200 DM,48,good,yes
+< 0 DM,30,good,yes
+unknown,9,good,no
+unknown,18,critical,no
+< 0 DM,12,good,no
+unknown,6,good,yes
+unknown,24,good,no
+unknown,15,critical,no
+unknown,12,good,no
+> 200 DM,18,very good,no
+unknown,15,critical,no
+1 - 200 DM,24,critical,no
+< 0 DM,47,good,no
+< 0 DM,48,good,no
+1 - 200 DM,48,poor,no
+1 - 200 DM,12,good,no
+< 0 DM,24,poor,yes
+unknown,12,good,no
+1 - 200 DM,36,good,yes
+< 0 DM,24,critical,no
+> 200 DM,42,critical,no
+unknown,48,critical,no
+1 - 200 DM,48,good,yes
+unknown,12,good,no
+unknown,10,good,no
+unknown,18,good,no
+1 - 200 DM,21,critical,no
+unknown,6,good,no
+1 - 200 DM,36,perfect,yes
+> 200 DM,24,critical,yes
+< 0 DM,10,critical,no
+unknown,48,critical,yes
+unknown,6,good,no
+unknown,30,good,no
+< 0 DM,12,good,yes
+1 - 200 DM,8,good,yes
+1 - 200 DM,9,good,no
+1 - 200 DM,48,good,no
+unknown,24,good,no
+> 200 DM,24,good,no
+1 - 200 DM,12,good,yes
+> 200 DM,4,good,no
+< 0 DM,36,very good,yes
+< 0 DM,12,good,no
+1 - 200 DM,24,good,no
+unknown,12,critical,no
+< 0 DM,15,poor,no
+1 - 200 DM,30,critical,yes
+< 0 DM,24,good,yes
+< 0 DM,24,good,no
+< 0 DM,18,good,no
+unknown,18,critical,no
+< 0 DM,8,critical,no
+unknown,12,critical,no
+unknown,24,good,no
+> 200 DM,36,good,no
+1 - 200 DM,6,good,no
+< 0 DM,24,critical,no
+unknown,18,critical,yes
+1 - 200 DM,60,good,yes
+unknown,48,critical,yes
+< 0 DM,24,perfect,yes
+< 0 DM,6,critical,yes
+1 - 200 DM,13,good,no
+< 0 DM,15,good,yes
+< 0 DM,24,good,no
+1 - 200 DM,10,good,no
+1 - 200 DM,24,critical,no
+< 0 DM,21,good,no
+1 - 200 DM,18,good,no
+1 - 200 DM,18,good,no
+> 200 DM,10,good,no
+unknown,15,critical,no
+1 - 200 DM,13,critical,no
+1 - 200 DM,24,good,no
+unknown,6,poor,no
+1 - 200 DM,9,critical,yes
+unknown,9,good,no
+1 - 200 DM,9,good,yes
+unknown,18,critical,no
+< 0 DM,12,perfect,yes
+unknown,10,good,no
+1 - 200 DM,24,good,yes
+unknown,12,critical,no
+unknown,36,poor,yes
+unknown,12,good,no
+< 0 DM,30,good,yes
+1 - 200 DM,18,good,no
+> 200 DM,12,good,no
+> 200 DM,12,poor,no
+unknown,6,good,no
+< 0 DM,18,good,yes
+unknown,12,good,no
+unknown,18,critical,no
+< 0 DM,18,good,no
+< 0 DM,36,good,yes
+1 - 200 DM,18,good,no
+unknown,36,good,no
+unknown,18,critical,no
+unknown,10,critical,no
+unknown,60,critical,no
+1 - 200 DM,60,very good,yes
+< 0 DM,48,very good,yes
+unknown,18,poor,no
+unknown,7,poor,no
+1 - 200 DM,36,good,yes
+unknown,6,critical,no
+< 0 DM,20,good,no
+1 - 200 DM,18,good,yes
+unknown,22,good,no
+> 200 DM,12,good,no
+unknown,30,poor,no
+unknown,18,critical,no
+unknown,18,good,no
+1 - 200 DM,18,critical,no
+1 - 200 DM,15,critical,no
+unknown,9,good,no
+unknown,18,good,no
+1 - 200 DM,12,good,no
+< 0 DM,36,good,no
+< 0 DM,6,critical,no
+unknown,9,critical,no
+1 - 200 DM,39,poor,no
+< 0 DM,12,good,no
+< 0 DM,36,critical,no
+1 - 200 DM,12,good,yes
+unknown,24,critical,no
+unknown,18,good,no
+1 - 200 DM,18,critical,no
+unknown,24,poor,yes
+unknown,14,poor,no
+1 - 200 DM,18,poor,no
+1 - 200 DM,24,good,yes
+unknown,24,critical,no
+< 0 DM,15,good,no
+unknown,24,good,no
+> 200 DM,12,critical,yes
+1 - 200 DM,24,good,no
+unknown,33,critical,no
+unknown,12,critical,yes
+unknown,10,good,no
+< 0 DM,24,good,yes
+unknown,36,critical,no
+< 0 DM,12,good,yes
+< 0 DM,18,poor,no
+unknown,21,good,no
+1 - 200 DM,18,good,yes
+unknown,15,good,no
+1 - 200 DM,12,good,no
+1 - 200 DM,12,critical,no
+unknown,21,poor,no
+1 - 200 DM,12,good,yes
+1 - 200 DM,18,good,no
+unknown,28,critical,no
+unknown,18,critical,no
+unknown,9,good,no
+< 0 DM,18,critical,yes
+unknown,5,good,no
+1 - 200 DM,24,good,yes
+< 0 DM,6,critical,no
+unknown,24,critical,no
+< 0 DM,9,good,no
+1 - 200 DM,12,good,yes
+unknown,6,good,no
+unknown,24,critical,no
+< 0 DM,42,critical,no
+> 200 DM,12,very good,yes
+unknown,12,good,no
+< 0 DM,12,good,no
+1 - 200 DM,20,poor,no
+unknown,12,good,yes
+1 - 200 DM,48,critical,yes
+unknown,9,critical,no
+< 0 DM,36,good,yes
+1 - 200 DM,7,good,no
+> 200 DM,12,good,no
+1 - 200 DM,15,poor,yes
+unknown,36,critical,no
+unknown,6,good,no
+unknown,12,perfect,no
+unknown,24,good,no
+< 0 DM,24,good,yes
+unknown,24,good,no
+< 0 DM,11,critical,no
+< 0 DM,12,good,yes
+< 0 DM,6,good,no
+unknown,18,good,no
+< 0 DM,36,good,no
+< 0 DM,15,good,no
+1 - 200 DM,12,good,no
+1 - 200 DM,12,good,no
+unknown,18,good,no
+< 0 DM,24,good,no
+< 0 DM,24,poor,yes
+unknown,48,poor,no
+unknown,33,poor,no
+unknown,24,poor,no
+1 - 200 DM,24,good,yes
+< 0 DM,6,good,yes
+< 0 DM,9,good,yes
+unknown,6,good,no
+1 - 200 DM,18,critical,yes
+< 0 DM,18,perfect,yes
+unknown,39,good,no
+> 200 DM,24,good,no
+1 - 200 DM,12,good,no
+< 0 DM,15,critical,no
+1 - 200 DM,12,critical,no
+1 - 200 DM,24,good,no
+< 0 DM,30,good,no
+unknown,15,poor,no
+unknown,12,critical,no
+1 - 200 DM,6,poor,yes
+unknown,12,good,no
+unknown,24,good,no
+unknown,10,good,no
+unknown,6,good,no
+unknown,12,critical,no
+1 - 200 DM,27,perfect,yes
+unknown,6,critical,no
+1 - 200 DM,6,good,no
+< 0 DM,12,critical,no
+< 0 DM,24,good,yes
+1 - 200 DM,36,good,yes
+unknown,24,critical,no
+1 - 200 DM,18,good,no
+> 200 DM,6,critical,no
+< 0 DM,24,good,yes
+< 0 DM,36,good,no
+> 200 DM,9,good,no
+1 - 200 DM,24,critical,yes
+< 0 DM,24,good,yes
+unknown,10,good,yes
+> 200 DM,15,critical,no
+1 - 200 DM,15,very good,yes
+unknown,24,good,no
+unknown,39,good,no
+< 0 DM,12,good,yes
+unknown,36,good,no
+> 200 DM,15,good,no
+1 - 200 DM,12,poor,no
+unknown,24,good,no
+< 0 DM,6,critical,no
+< 0 DM,6,critical,no
+unknown,36,critical,yes
+< 0 DM,6,good,no
+unknown,6,critical,no
+unknown,24,critical,no
+< 0 DM,18,good,yes
+< 0 DM,48,perfect,yes
+unknown,24,good,no
+1 - 200 DM,18,good,no
+1 - 200 DM,26,good,no
+unknown,15,critical,no
+unknown,4,critical,no
+< 0 DM,36,good,yes
+< 0 DM,6,good,no
+1 - 200 DM,36,good,no
+1 - 200 DM,15,good,yes
+unknown,12,poor,no
+unknown,24,good,no
+unknown,24,good,no
+> 200 DM,21,critical,yes
+< 0 DM,6,good,no
+1 - 200 DM,18,critical,no
+< 0 DM,48,good,yes
+> 200 DM,18,good,no
+1 - 200 DM,12,good,yes
+unknown,24,poor,no
+< 0 DM,30,good,yes
+> 200 DM,18,good,yes
+unknown,12,critical,no
+< 0 DM,24,poor,yes
+unknown,24,critical,no
+unknown,24,good,no
+< 0 DM,12,very good,yes
+unknown,48,critical,no
+unknown,12,critical,no
+unknown,6,very good,no
+< 0 DM,48,good,yes
+1 - 200 DM,12,critical,no
+1 - 200 DM,9,good,no
+1 - 200 DM,12,good,yes
+1 - 200 DM,18,perfect,yes
+unknown,21,perfect,yes
+< 0 DM,24,very good,yes
+1 - 200 DM,18,critical,yes
+< 0 DM,24,good,no
+< 0 DM,24,very good,yes
+> 200 DM,6,poor,no
+1 - 200 DM,36,good,yes
+1 - 200 DM,24,poor,no
+1 - 200 DM,24,poor,no
+< 0 DM,12,good,yes
+unknown,24,critical,no
+1 - 200 DM,48,good,no
+< 0 DM,48,good,yes
+< 0 DM,24,good,yes
+unknown,30,critical,no
+unknown,24,good,no
+< 0 DM,15,good,no
+1 - 200 DM,9,good,no
+unknown,15,critical,no
+1 - 200 DM,12,good,no
+unknown,24,critical,no
+1 - 200 DM,36,critical,yes
+unknown,24,good,no
+1 - 200 DM,18,critical,yes
+1 - 200 DM,12,critical,no
+unknown,9,good,no
+1 - 200 DM,36,good,yes
+unknown,12,good,no
+< 0 DM,18,good,yes
+< 0 DM,9,critical,no
+< 0 DM,12,good,no
+< 0 DM,18,good,yes
+< 0 DM,12,critical,yes
+< 0 DM,12,critical,no
+1 - 200 DM,24,poor,no
+unknown,21,good,no
+1 - 200 DM,24,good,yes
+< 0 DM,24,very good,yes
+1 - 200 DM,6,very good,yes
+< 0 DM,24,good,yes
+1 - 200 DM,24,perfect,yes
+unknown,18,critical,yes
+unknown,24,poor,no
+1 - 200 DM,7,good,no
+1 - 200 DM,9,good,yes
+1 - 200 DM,24,very good,yes
+unknown,36,good,yes
+> 200 DM,10,good,no
+< 0 DM,24,very good,no
+unknown,24,critical,no
+1 - 200 DM,36,good,yes
+unknown,18,good,no
+unknown,15,good,no
+< 0 DM,12,good,yes
+> 200 DM,10,good,yes
+< 0 DM,21,good,no
+< 0 DM,24,very good,no
+unknown,18,poor,yes
+1 - 200 DM,48,perfect,no
+1 - 200 DM,60,poor,no
+< 0 DM,6,critical,no
+1 - 200 DM,30,good,yes
+unknown,12,good,no
+1 - 200 DM,21,critical,no
+unknown,18,critical,yes
+unknown,48,good,yes
+< 0 DM,12,good,no
+< 0 DM,18,good,yes
+unknown,15,good,no
+> 200 DM,6,good,no
+1 - 200 DM,9,very good,yes
+unknown,42,critical,no
+unknown,9,good,no
+< 0 DM,24,good,no
+< 0 DM,18,very good,yes
+1 - 200 DM,15,good,no
+unknown,9,good,yes
+1 - 200 DM,24,good,yes
+unknown,12,good,no
+unknown,24,good,no
+unknown,60,poor,no
+unknown,12,good,no
+< 0 DM,42,poor,yes
+< 0 DM,18,good,yes
+1 - 200 DM,15,good,no
+unknown,15,good,yes
+unknown,24,critical,no
+< 0 DM,18,critical,no
+unknown,36,poor,yes
+< 0 DM,30,perfect,no
+unknown,12,good,yes
+> 200 DM,24,good,yes
+< 0 DM,12,good,yes
+< 0 DM,48,good,no
+1 - 200 DM,12,good,yes
+< 0 DM,24,good,yes
+1 - 200 DM,36,poor,yes
+unknown,24,critical,no
+< 0 DM,14,good,no
+1 - 200 DM,12,good,yes
+unknown,48,good,no
+1 - 200 DM,30,perfect,no
+1 - 200 DM,18,critical,no
+> 200 DM,12,good,no
+< 0 DM,12,good,yes
+unknown,21,good,no
+1 - 200 DM,6,poor,no
+> 200 DM,6,critical,no
+unknown,24,critical,no
+1 - 200 DM,30,very good,no
+unknown,48,very good,no
+< 0 DM,12,critical,yes
+> 200 DM,30,critical,no
+unknown,24,critical,no
+unknown,36,good,no
+unknown,60,good,no
+unknown,6,critical,no
+unknown,21,poor,yes
+unknown,30,critical,no
+unknown,24,critical,no
+1 - 200 DM,72,good,yes
+< 0 DM,24,good,no
+unknown,18,good,no
+unknown,6,good,no
+unknown,12,good,no
+unknown,15,poor,no
+unknown,24,critical,no
+1 - 200 DM,36,poor,no
+unknown,60,good,no
+> 200 DM,10,critical,no
+1 - 200 DM,36,poor,no
+unknown,9,good,no
+< 0 DM,12,good,no
+< 0 DM,15,critical,no
+1 - 200 DM,15,good,no
+1 - 200 DM,24,good,no
+< 0 DM,6,critical,no
+unknown,24,good,no
+unknown,6,good,no
+1 - 200 DM,12,good,no
+unknown,12,critical,no
+unknown,18,critical,no
+> 200 DM,15,good,no
+unknown,12,good,yes
+< 0 DM,48,critical,yes
+> 200 DM,24,good,no
+1 - 200 DM,30,poor,no
+1 - 200 DM,27,good,no
+unknown,15,good,no
+1 - 200 DM,48,good,yes
+1 - 200 DM,12,perfect,yes
+1 - 200 DM,9,good,no
+1 - 200 DM,9,good,no
+unknown,18,critical,no
+< 0 DM,6,very good,yes
+unknown,21,good,no
+< 0 DM,9,critical,no
+1 - 200 DM,60,good,yes
+unknown,30,critical,no
+unknown,30,critical,no
+unknown,18,good,no
+> 200 DM,24,critical,no
+1 - 200 DM,20,perfect,no
+> 200 DM,9,perfect,yes
+1 - 200 DM,6,very good,yes
+< 0 DM,12,good,yes
+1 - 200 DM,9,good,no
+unknown,27,good,yes
+unknown,6,critical,no
+unknown,15,critical,no
+< 0 DM,18,good,yes
+1 - 200 DM,48,very good,yes
+> 200 DM,24,critical,no
+1 - 200 DM,24,poor,no
+< 0 DM,24,good,yes
+1 - 200 DM,8,good,no
+unknown,24,good,no
+unknown,4,critical,no
+1 - 200 DM,36,very good,no
+1 - 200 DM,24,good,yes
+< 0 DM,18,good,no
+unknown,6,critical,no
+1 - 200 DM,30,perfect,yes
+< 0 DM,24,very good,no
+1 - 200 DM,10,very good,no
+unknown,21,good,no
+< 0 DM,24,very good,no
+< 0 DM,39,critical,no
+< 0 DM,13,critical,no
+< 0 DM,15,good,no
+< 0 DM,12,good,yes
+unknown,21,good,no
+unknown,15,good,no
+< 0 DM,6,good,no
+< 0 DM,18,good,yes
+1 - 200 DM,12,good,no
+unknown,30,critical,no
+unknown,12,poor,yes
+< 0 DM,24,good,yes
+> 200 DM,6,critical,no
+> 200 DM,15,critical,yes
+unknown,24,good,no
+< 0 DM,12,critical,yes
+unknown,15,critical,no
+< 0 DM,18,critical,yes
+< 0 DM,12,good,no
+unknown,21,critical,yes
+unknown,24,critical,no
+1 - 200 DM,12,good,no
+< 0 DM,30,good,yes
+unknown,10,good,no
+1 - 200 DM,12,critical,no
+unknown,12,critical,no
+< 0 DM,24,good,no
+< 0 DM,36,critical,yes
+unknown,21,critical,no
+unknown,24,critical,no
+> 200 DM,12,critical,no
+< 0 DM,24,good,yes
+unknown,36,critical,no
+< 0 DM,18,good,no
+unknown,36,critical,no
+1 - 200 DM,18,good,no
+1 - 200 DM,39,critical,yes
+unknown,24,critical,no
+1 - 200 DM,12,perfect,no
+1 - 200 DM,12,good,yes
+1 - 200 DM,20,good,no
+1 - 200 DM,18,good,no
+unknown,22,good,no
+unknown,48,critical,no
+1 - 200 DM,48,poor,yes
+< 0 DM,40,critical,yes
+1 - 200 DM,21,good,yes
+unknown,24,good,no
+unknown,6,critical,no
+> 200 DM,24,good,no
+unknown,24,good,no
+unknown,9,good,no
+< 0 DM,18,good,yes
+unknown,12,critical,no
+unknown,24,poor,no
+1 - 200 DM,9,good,no
+unknown,24,critical,no
+1 - 200 DM,18,critical,no
+< 0 DM,20,critical,no
+unknown,12,critical,no
+1 - 200 DM,12,good,no
+< 0 DM,36,good,yes
+1 - 200 DM,6,good,no
+unknown,12,critical,no
+1 - 200 DM,42,very good,no
+1 - 200 DM,15,perfect,yes
+1 - 200 DM,8,good,no
+1 - 200 DM,6,good,no
+< 0 DM,36,critical,yes
+< 0 DM,48,good,yes
+< 0 DM,48,good,yes
+1 - 200 DM,36,poor,no
+unknown,6,good,no
+unknown,6,critical,no
+< 0 DM,36,good,no
+< 0 DM,18,good,yes
+unknown,12,good,no
+> 200 DM,12,good,no
+< 0 DM,36,good,yes
+< 0 DM,8,critical,no
+unknown,18,critical,no
+< 0 DM,21,critical,no
+< 0 DM,18,critical,yes
+unknown,18,perfect,yes
+< 0 DM,36,good,yes
+1 - 200 DM,48,poor,no
+unknown,24,poor,no
+< 0 DM,18,good,yes
+< 0 DM,45,perfect,yes
+1 - 200 DM,24,good,no
+> 200 DM,15,good,yes
+< 0 DM,12,perfect,yes
+unknown,12,good,no
+unknown,4,good,no
+< 0 DM,24,critical,no
+unknown,24,critical,no
+< 0 DM,36,good,yes
+unknown,21,poor,no
+unknown,18,good,yes
+unknown,24,very good,no
+unknown,18,good,no
+1 - 200 DM,21,good,no
+unknown,18,good,yes
+unknown,24,good,no
+< 0 DM,9,good,no
+< 0 DM,12,good,yes
+< 0 DM,20,critical,yes
+unknown,24,critical,no
+unknown,15,critical,no
+< 0 DM,18,very good,yes
+unknown,36,poor,no
+unknown,24,good,no
+unknown,10,good,no
+unknown,15,critical,no
+< 0 DM,15,good,yes
+unknown,9,good,no
+unknown,24,critical,no
+unknown,18,poor,yes
+< 0 DM,24,good,yes
+unknown,27,critical,no
+unknown,10,good,yes
+unknown,15,good,no
+< 0 DM,18,good,no
+unknown,12,critical,no
+unknown,36,good,no
+< 0 DM,12,good,no
+unknown,36,poor,no
+> 200 DM,6,critical,no
+< 0 DM,24,critical,no
+unknown,15,good,no
+< 0 DM,12,good,no
+1 - 200 DM,11,critical,no
+< 0 DM,18,very good,no
+unknown,36,good,no
+< 0 DM,9,good,yes
+unknown,30,critical,no
+unknown,24,good,no
+unknown,24,good,no
+1 - 200 DM,30,critical,no
+unknown,18,critical,no
+1 - 200 DM,24,good,yes
+< 0 DM,12,good,yes
+1 - 200 DM,24,critical,no
+1 - 200 DM,48,good,yes
+unknown,36,critical,no
+unknown,28,very good,no
+< 0 DM,27,critical,no
+unknown,15,critical,no
+< 0 DM,12,critical,no
+1 - 200 DM,36,critical,no
+unknown,18,critical,no
+unknown,36,poor,no
+< 0 DM,21,good,no
+unknown,12,critical,no
+unknown,15,good,no
+< 0 DM,18,good,yes
+< 0 DM,16,critical,yes
+unknown,20,critical,no
+unknown,36,critical,no
+unknown,15,good,no
+unknown,24,good,no
+< 0 DM,12,good,no
+< 0 DM,21,good,no
+1 - 200 DM,36,good,no
+unknown,15,poor,no
+1 - 200 DM,9,good,no
+unknown,36,poor,no
+1 - 200 DM,24,critical,yes
+1 - 200 DM,30,good,no
+unknown,11,good,no
+< 0 DM,24,very good,yes
+1 - 200 DM,48,perfect,yes
+unknown,10,good,no
+< 0 DM,6,good,yes
+< 0 DM,24,good,yes
+< 0 DM,24,good,yes
+unknown,18,critical,no
+unknown,48,poor,no
+< 0 DM,9,good,yes
+1 - 200 DM,12,good,no
+< 0 DM,24,very good,yes
+< 0 DM,12,very good,yes
+< 0 DM,18,critical,no
+< 0 DM,48,good,yes
+unknown,30,good,no
+< 0 DM,12,poor,no
+< 0 DM,24,good,no
+1 - 200 DM,9,good,yes
+unknown,9,critical,no
+unknown,12,critical,no
+< 0 DM,12,good,no
+1 - 200 DM,30,poor,yes
+> 200 DM,9,good,yes
+1 - 200 DM,6,good,no
+1 - 200 DM,60,good,yes
+unknown,24,critical,no
+unknown,12,good,no
+unknown,10,good,no
+unknown,24,good,no
+unknown,4,critical,no
+< 0 DM,15,good,no
+1 - 200 DM,48,perfect,no
+< 0 DM,24,very good,yes
+unknown,12,good,no
+unknown,18,good,yes
+unknown,24,good,yes
+1 - 200 DM,18,critical,no
+< 0 DM,36,poor,yes
+1 - 200 DM,24,good,yes
+unknown,36,good,yes
+< 0 DM,12,good,no
+< 0 DM,24,critical,no
+> 200 DM,30,critical,no
+1 - 200 DM,9,critical,no
+< 0 DM,28,good,yes
+1 - 200 DM,24,good,no
+unknown,6,critical,no
+1 - 200 DM,21,poor,no
+unknown,15,good,no
+unknown,24,good,yes
+1 - 200 DM,6,good,no
+1 - 200 DM,30,good,no
+1 - 200 DM,27,critical,yes
+unknown,15,good,no
+unknown,42,good,no
+< 0 DM,11,critical,no
+1 - 200 DM,15,good,no
+unknown,24,good,no
+< 0 DM,24,very good,yes
+< 0 DM,60,good,yes
+unknown,30,critical,no
+> 200 DM,24,good,no
+1 - 200 DM,6,good,no
+1 - 200 DM,18,poor,no
+unknown,24,poor,yes
+1 - 200 DM,15,very good,yes
+1 - 200 DM,30,critical,yes
+unknown,48,good,yes
+> 200 DM,21,good,no
+< 0 DM,36,good,yes
+unknown,24,critical,no
+< 0 DM,15,critical,no
+> 200 DM,42,perfect,no
+unknown,13,good,no
+< 0 DM,24,good,no
+1 - 200 DM,24,critical,no
+unknown,12,critical,no
+unknown,15,very good,no
+< 0 DM,18,good,no
+< 0 DM,36,good,no
+unknown,12,good,no
+unknown,12,good,no
+< 0 DM,30,good,no
+unknown,12,good,no
+< 0 DM,45,good,yes
+1 - 200 DM,45,critical,no
