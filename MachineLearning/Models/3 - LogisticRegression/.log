@@ -16,3 +16,21 @@
 2023-04-23 17:24:09,565 [15532] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-04-23 17:24:09,566 [15532] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-04-23 17:24:09,568 [15532] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-10 18:46:15,042 [25212] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-10 18:46:15,057 [25212] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-10 18:46:15,058 [25212] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-10 18:46:15,060 [25212] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-10 18:46:15,061 [25212] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-10 18:46:15,061 [25212] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-10 18:46:16,379 [25212] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-10 18:46:16,380 [25212] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-10 18:46:16,380 [25212] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-10 18:46:16,386 [25212] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-10 18:46:16,387 [25212] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-10 18:46:16,388 [25212] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-10 19:56:13,465 [25212] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-10 19:56:13,465 [25212] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-10 19:56:13,465 [25212] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-10 19:56:13,473 [25212] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-10 19:56:13,475 [25212] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-10 19:56:13,475 [25212] DEBUG    root:97: [JupyterRequire] Registering comm targets.
