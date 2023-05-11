@@ -135,10 +135,6 @@ class my_LogisticRegression:
 			linear_pred = np.dot(X, self.weights) + self.bias
 			predictions = sigmoid(linear_pred)
 
-			# update weights
-			## w = w - a.dw
-			## b = b - a.db
-
 			# calculate gradiente with matrix products
 			dw = (1/n_samples) * np.dot(X.T, (predictions - y))
 			db = (1/n_samples) * np.sum(predictions - y)

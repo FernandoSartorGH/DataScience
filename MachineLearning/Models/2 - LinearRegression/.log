@@ -6217,3 +6217,10 @@ Please also refer to the documentation for alternative solver options:
 2023-05-10 20:13:53,471 [21084] INFO     root:247: [JupyterRequire] Initializing comms.
 2023-05-10 20:13:53,477 [21084] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-05-10 20:13:53,477 [21084] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-10 20:13:53,478 [21084] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-10 21:11:42,075 [22928] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-10 21:11:42,077 [22928] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-10 21:11:42,079 [22928] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-10 21:11:42,090 [22928] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-10 21:11:42,091 [22928] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-10 21:11:42,093 [22928] DEBUG    root:97: [JupyterRequire] Registering comm targets.
