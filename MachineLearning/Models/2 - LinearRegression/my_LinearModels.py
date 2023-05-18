@@ -1,4 +1,9 @@
-# My Regressors
+# References
+ # Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron
+ # Machine learning - Fast reference guide - Matt Harrison
+ # https://www.youtube.com/@patloeber
+ # https://www.youtube.com/@Dataquestio
+
 
 # STEPS
 
